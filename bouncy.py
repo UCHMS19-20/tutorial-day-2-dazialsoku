@@ -15,7 +15,7 @@ white = (255, 255, 255)
 screen = pygame.display.set_mode( (width, height) )
 
 # Load an image
-ball = pygame.image.load("img/ball.png")
+ball = pygame.image.load("img/http://st.motortrend.com/uploads/sites/5/2016/09/2016-McLaren-570S-front-three-quarters-in-motion-02.jpg")
 ballrect = ball.get_rect()
 
 while True:
